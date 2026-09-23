@@ -1,0 +1,12 @@
+{
+  "name": "placementpoint-root",
+  "private": true,
+  "version": "1.0.0",
+  "description": "PlacementPoint - Campus Placement Portal Root Workspace",
+  "scripts": {
+    "dev": "npm --prefix PlacementPoint_Frontend run dev",
+    "build": "npm --prefix PlacementPoint_Frontend run build",
+    "preview": "npm --prefix PlacementPoint_Frontend run preview",
+    "install:frontend": "npm --prefix PlacementPoint_Frontend install"
+  }
+}
